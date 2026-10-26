@@ -1,0 +1,25 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+npm-debug.log*
+
+# Окружение и секреты
+.env
+.env.*
+!.env.example
+
+# Базы данных
+*.db
+*.sqlite3
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
